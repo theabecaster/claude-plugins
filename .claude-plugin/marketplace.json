@@ -1,0 +1,30 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "theabecaster",
+    "email": "theabecaster0@gmail.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by theabecaster"
+  },
+  "plugins": [
+    {
+      "name": "claude-learns",
+      "description": "Claude Code that learns from you. Auto-captures your corrections as preferences in CLAUDE.md, audits for conflicts and expiry.",
+      "version": "0.1.0",
+      "author": {
+        "name": "theabecaster",
+        "url": "https://github.com/theabecaster"
+      },
+      "homepage": "https://github.com/theabecaster/claude-learns",
+      "repository": "https://github.com/theabecaster/claude-learns",
+      "license": "MIT",
+      "keywords": ["learning", "memory", "preferences", "productivity"],
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "theabecaster/claude-learns"
+      }
+    }
+  ]
+}
