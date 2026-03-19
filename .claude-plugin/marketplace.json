@@ -22,8 +22,8 @@
       "keywords": ["learning", "memory", "preferences", "productivity"],
       "category": "productivity",
       "source": {
-        "source": "github",
-        "repo": "theabecaster/claude-learns"
+        "source": "url",
+        "url": "https://github.com/theabecaster/claude-learns.git"
       }
     }
   ]
