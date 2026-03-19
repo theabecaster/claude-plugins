@@ -13,7 +13,7 @@ Add this marketplace once inside Claude Code:
 Then install any plugin:
 
 ```
-/plugin install claude-learns@claude-plugins
+/plugin install claude-learns@abe-plugins
 ```
 
 ## Plugins
