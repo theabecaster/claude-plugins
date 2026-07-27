@@ -22,3 +22,8 @@ Then install any plugin:
 Claude Code that learns from you. Auto-captures your corrections as preferences in `CLAUDE.md`, audits for conflicts and expiry.
 
 → [github.com/theabecaster/claude-learns](https://github.com/theabecaster/claude-learns)
+
+### designing-data-intensive-apps
+Chapter-by-chapter knowledge base of Martin Kleppmann's *Designing Data-Intensive Applications* — replication, partitioning, transactions and isolation levels, consistency and consensus, batch and stream processing, storage engines.
+
+→ [github.com/theabecaster/designing-data-intensive-apps](https://github.com/theabecaster/designing-data-intensive-apps)

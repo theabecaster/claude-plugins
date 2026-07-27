@@ -19,11 +19,41 @@
       "homepage": "https://github.com/theabecaster/claude-learns",
       "repository": "https://github.com/theabecaster/claude-learns",
       "license": "MIT",
-      "keywords": ["learning", "memory", "preferences", "productivity"],
+      "keywords": [
+        "learning",
+        "memory",
+        "preferences",
+        "productivity"
+      ],
       "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/theabecaster/claude-learns.git"
+      }
+    },
+    {
+      "name": "designing-data-intensive-apps",
+      "description": "Knowledge base from \"Designing Data-Intensive Applications\" by Martin Kleppmann. Use when applying Kleppmann's frameworks for replication, partitioning, transactions and isolation levels, consistency and consensus, batch and stream processing, storage engines, or data integration.",
+      "version": "1.0.0",
+      "author": {
+        "name": "theabecaster",
+        "url": "https://github.com/theabecaster"
+      },
+      "homepage": "https://github.com/theabecaster/designing-data-intensive-apps",
+      "repository": "https://github.com/theabecaster/designing-data-intensive-apps",
+      "license": "MIT",
+      "keywords": [
+        "distributed-systems",
+        "databases",
+        "replication",
+        "transactions",
+        "consensus",
+        "system-design"
+      ],
+      "category": "knowledge",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/theabecaster/designing-data-intensive-apps.git"
       }
     }
   ]
